@@ -16,8 +16,10 @@ Here we have Done Two Things:
   
     Here we have build a Machine Learning Model Which Predict signals i.e. **Buy** or **sell** of a particular stock.
     RandomForestClassifier outperform other Model like KNeighborsClassifier, DecisionTreeClassifier, SVC, RandomForestClassifier, GaussianNB with 97% Accuracy.
+    ![Model_perfomance](download (1).png)
    
 2. [Portfolio Managment](Momentum_Trading_Portfolio_Management.ipynb)
 
     Here we build a Automatic Trading System which Buy the Best Momentum Stock and even Sell when it is not performing well.
     We only have to give the initial amount and the tarding charge.
+    ![Model_perfomance](download .png)
