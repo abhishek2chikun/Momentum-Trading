@@ -8,5 +8,5 @@ time to help investors determine the strength of a trend. Stocks that tend to mo
 the strength of momentum are called momentum stocks.
 
 Here I have Done Two Things:
-1. ![Predicting Buy and Sell Signal](Momentum_Trading_Predicting_Signals(Buy,Sell).ipynb)
-2. ![Portfolio 
+1. [Predicting Buy and Sell Signal](Momentum_Trading_Predicting_Signals(Buy,Sell).ipynb)
+2. [Portfolio 
