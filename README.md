@@ -24,4 +24,4 @@ Here we have Done Two Things:
     Here we build a Automatic Trading System which Buy the Best Momentum Stock and even Sell when it is not performing well.
     We only have to give the initial amount and the tarding charge.
  
- ![Model_perfomance](download .png)
+![Model_perfomance](download .png)
